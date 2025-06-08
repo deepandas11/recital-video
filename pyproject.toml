@@ -1,0 +1,14 @@
+[project]
+name = "ai-video"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+
+dependencies = [
+    "streamlit>=1.39.0",
+    "moviepy>=2.0.0",
+    "Pillow>=10.4.0",
+    "requests>=2.31.0",
+    "jupyter>=1.0.0"
+]
